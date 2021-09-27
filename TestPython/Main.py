@@ -1,3 +1,6 @@
+from numpy import append
+
+
 arr10 = [333, 102, 419, 402, 46, 272, 239, 44, 116, 30]
 arr100 = [297, 495, 44, 452, 192, 378, 177, 477, 387, 417, 153, 370, 497, 28, 270, 401, 239, 318, 333, 110, 291, 276, 262, 22, 205, 167, 232, 364, 186, 252, 312, 359, 114, 136, 488, 201, 205, 264, 214, 432, 465, 363, 16, 446, 448, 291, 448, 88, 417, 307, 269, 154, 307, 341, 356, 238, 116, 458, 191, 120, 458, 485, 297, 429, 372, 343, 315, 149, 385, 292, 474, 28, 430, 158, 355, 198, 450, 448, 204, 60, 487, 327, 477, 462, 292, 144, 337, 157, 373, 381, 229, 109, 315, 62, 316, 256, 121, 21, 78, 116]
 arr1000 = [440, 287, 199, 201, 124, 226, 91, 238, 373, 105, 180, 416, 369, 358, 312, 285, 333, 38, 432, 406, 229, 73, 188, 111, 497, 255, 394, 276, 291, 54, 163, 47, 355, 405, 52, 39, 153, 338, 473, 342, 195, 136, 61, 367, 363, 85, 294, 286, 277, 201, 197, 46, 197, 205, 320, 132, 346, 164, 255, 235, 148, 35, 193, 290, 133, 448, 88, 322, 350, 208, 391, 43, 257, 378, 31, 329, 257, 423, 458, 143, 161, 177, 78, 122, 106, 281, 308, 42, 441, 388, 200, 211, 160, 406, 104, 209, 432, 100, 265, 19, 482, 213, 87, 27, 340, 295, 475, 184, 91, 216, 321, 436, 128, 
@@ -78,12 +81,30 @@ def bubbleSort(arr):
 
 def main():
     import time
+    import csv
+    f = open('./results.csv', 'w')
+    writer = csv.writer(f)
+    timesHeader = []
+    for x in range(1,101):
+        timesHeader.append("#" + str(x))
+    header = ["# Array", "Mean", timesHeader]
+    writer.writerow(header)
+    cont = 1
     for array in arrays:
-        print("Array with " + str(len(array)) + " Positions")
-        inicio = time.time()
-        bubbleSort(array)
-        fin = time.time()
-        print("Time: " + str(len(array)) + " positions: " + str(fin-inicio) + "\n")
-
+        times = []
+        for x in range(0,100):
+            # print("Array with " + str(len(array)) + " Positions")
+            inicio = time.time()
+            bubbleSort(array)
+            fin = time.time()
+            # print("Time: " + str(len(array)) + " positions: " + str(fin-inicio) + "\n")
+            times.append(fin-inicio)
+            print("Iteration: " + str(x+1))
+        mean = 0
+        for x in range(0,100):
+            mean += times[x]
+        mean = mean / 100
+        writer.writerow(["Array " + str(cont), mean, times])
+        cont += 1
 
 main()
