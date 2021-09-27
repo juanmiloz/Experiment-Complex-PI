@@ -1,8 +1,13 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Juan Camilo Calvache\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Juan Camilo Calvache\\.nuget\\packages"
+<<<<<<< HEAD
+      "C:\\Users\\Giova\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Giova\\.nuget\\packages"
+=======
+      "C:\\Users\\Juan Pablo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Juan Pablo\\.nuget\\packages"
+>>>>>>> 6053cdf3851484db242a15cbfe3de6c0cdd0f7ff
     ]
   }
 }
