@@ -143,12 +143,12 @@ function experiment(array){
 }
 
 function bubbleSort(array){
-    for(var i = 0; i < array.length; i++){
-        for(var j = 0; j < array.length-1; j++){
-            if(array[j]>array[j+1]){
-                let temp = array[j+1];
-                array[j+1] = array[j];
-                array[j] = temp;
+    for(var i = 0; i < array.length; i++){ // n+1
+        for(var j = 0; j < array.length-1; j++){ //n(n)+n
+            if(array[j]>array[j+1]){ // n(n-1)
+                let temp = array[j+1]; // n(n-1)
+                array[j+1] = array[j];// n(n-1)
+                array[j] = temp;// n(n-1)
             }
         }
     }
