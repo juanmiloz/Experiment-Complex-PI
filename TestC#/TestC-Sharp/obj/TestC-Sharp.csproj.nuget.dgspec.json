@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Juan Camilo Calvache\\OneDrive - Universidad Icesi (@icesi.edu.co)\\Documentos\\5to semestre\\Proyecto Integrador I\\Semana 7 (Experimento)\\TallerExperimento\\TestC#\\TestC-Sharp\\TestC-Sharp.csproj": {}
+    "C:\\Users\\Giova\\OneDrive\\Escritorio\\Experiment-Complex-PI\\TestC#\\TestC-Sharp\\TestC-Sharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Juan Camilo Calvache\\OneDrive - Universidad Icesi (@icesi.edu.co)\\Documentos\\5to semestre\\Proyecto Integrador I\\Semana 7 (Experimento)\\TallerExperimento\\TestC#\\TestC-Sharp\\TestC-Sharp.csproj": {
+    "C:\\Users\\Giova\\OneDrive\\Escritorio\\Experiment-Complex-PI\\TestC#\\TestC-Sharp\\TestC-Sharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Camilo Calvache\\OneDrive - Universidad Icesi (@icesi.edu.co)\\Documentos\\5to semestre\\Proyecto Integrador I\\Semana 7 (Experimento)\\TallerExperimento\\TestC#\\TestC-Sharp\\TestC-Sharp.csproj",
+        "projectUniqueName": "C:\\Users\\Giova\\OneDrive\\Escritorio\\Experiment-Complex-PI\\TestC#\\TestC-Sharp\\TestC-Sharp.csproj",
         "projectName": "TestC-Sharp",
-        "projectPath": "C:\\Users\\Juan Camilo Calvache\\OneDrive - Universidad Icesi (@icesi.edu.co)\\Documentos\\5to semestre\\Proyecto Integrador I\\Semana 7 (Experimento)\\TallerExperimento\\TestC#\\TestC-Sharp\\TestC-Sharp.csproj",
-        "packagesPath": "C:\\Users\\Juan Camilo Calvache\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Camilo Calvache\\OneDrive - Universidad Icesi (@icesi.edu.co)\\Documentos\\5to semestre\\Proyecto Integrador I\\Semana 7 (Experimento)\\TallerExperimento\\TestC#\\TestC-Sharp\\obj\\",
+        "projectPath": "C:\\Users\\Giova\\OneDrive\\Escritorio\\Experiment-Complex-PI\\TestC#\\TestC-Sharp\\TestC-Sharp.csproj",
+        "packagesPath": "C:\\Users\\Giova\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Giova\\OneDrive\\Escritorio\\Experiment-Complex-PI\\TestC#\\TestC-Sharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Juan Camilo Calvache\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Giova\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
