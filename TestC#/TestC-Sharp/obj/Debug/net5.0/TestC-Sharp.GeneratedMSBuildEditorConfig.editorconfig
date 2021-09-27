@@ -7,4 +7,8 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = TestC_Sharp
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Giova\OneDrive\Escritorio\Experiment-Complex-PI\TestC#\TestC-Sharp\
+=======
+build_property.ProjectDir = D:\Semestre 7\Proyecto Integrador\Experiment-Complex-PI\TestC#\TestC-Sharp\
+>>>>>>> 6053cdf3851484db242a15cbfe3de6c0cdd0f7ff

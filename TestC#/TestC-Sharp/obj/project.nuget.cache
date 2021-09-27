@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "qjYL1bEUn3o1wDjJpVIWLD5KTywS12B3S8bcHPltyXpzpufW8S0Xgeqb0FwYXkQ4NNFqnWQMEfwPO4z98Lxe5Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Giova\\OneDrive\\Escritorio\\Experiment-Complex-PI\\TestC#\\TestC-Sharp\\TestC-Sharp.csproj",
+=======
+  "dgSpecHash": "qeGwGUjYlbF9EoIV9qgsKQB/s6yj9d1TLJx9OtwFPJsbn8znF2L5eR3LKmSvZgTiwCjaaokUTkcRK+mPvYRJ8w==",
+  "success": true,
+  "projectFilePath": "D:\\Semestre 7\\Proyecto Integrador\\Experiment-Complex-PI\\TestC#\\TestC-Sharp\\TestC-Sharp.csproj",
+>>>>>>> 6053cdf3851484db242a15cbfe3de6c0cdd0f7ff
   "expectedPackageFiles": [],
   "logs": []
 }

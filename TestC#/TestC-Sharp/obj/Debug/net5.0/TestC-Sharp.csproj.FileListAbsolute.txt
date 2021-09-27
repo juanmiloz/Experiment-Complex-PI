@@ -14,6 +14,7 @@ C:\Users\Juan Camilo Calvache\OneDrive - Universidad Icesi (@icesi.edu.co)\Docum
 C:\Users\Juan Camilo Calvache\OneDrive - Universidad Icesi (@icesi.edu.co)\Documentos\5to semestre\Proyecto Integrador I\Semana 7 (Experimento)\TallerExperimento\TestC#\TestC-Sharp\obj\Debug\net5.0\ref\TestC-Sharp.dll
 C:\Users\Juan Camilo Calvache\OneDrive - Universidad Icesi (@icesi.edu.co)\Documentos\5to semestre\Proyecto Integrador I\Semana 7 (Experimento)\TallerExperimento\TestC#\TestC-Sharp\obj\Debug\net5.0\TestC-Sharp.pdb
 C:\Users\Juan Camilo Calvache\OneDrive - Universidad Icesi (@icesi.edu.co)\Documentos\5to semestre\Proyecto Integrador I\Semana 7 (Experimento)\TallerExperimento\TestC#\TestC-Sharp\obj\Debug\net5.0\TestC-Sharp.genruntimeconfig.cache
+<<<<<<< HEAD
 C:\Users\Giova\OneDrive\Escritorio\Experiment-Complex-PI\TestC#\TestC-Sharp\bin\Debug\net5.0\TestC-Sharp.exe
 C:\Users\Giova\OneDrive\Escritorio\Experiment-Complex-PI\TestC#\TestC-Sharp\bin\Debug\net5.0\TestC-Sharp.deps.json
 C:\Users\Giova\OneDrive\Escritorio\Experiment-Complex-PI\TestC#\TestC-Sharp\bin\Debug\net5.0\TestC-Sharp.runtimeconfig.json
@@ -30,3 +31,21 @@ C:\Users\Giova\OneDrive\Escritorio\Experiment-Complex-PI\TestC#\TestC-Sharp\obj\
 C:\Users\Giova\OneDrive\Escritorio\Experiment-Complex-PI\TestC#\TestC-Sharp\obj\Debug\net5.0\ref\TestC-Sharp.dll
 C:\Users\Giova\OneDrive\Escritorio\Experiment-Complex-PI\TestC#\TestC-Sharp\obj\Debug\net5.0\TestC-Sharp.pdb
 C:\Users\Giova\OneDrive\Escritorio\Experiment-Complex-PI\TestC#\TestC-Sharp\obj\Debug\net5.0\TestC-Sharp.genruntimeconfig.cache
+=======
+D:\Semestre 7\Proyecto Integrador\Experiment-Complex-PI\TestC#\TestC-Sharp\bin\Debug\net5.0\TestC-Sharp.exe
+D:\Semestre 7\Proyecto Integrador\Experiment-Complex-PI\TestC#\TestC-Sharp\bin\Debug\net5.0\TestC-Sharp.deps.json
+D:\Semestre 7\Proyecto Integrador\Experiment-Complex-PI\TestC#\TestC-Sharp\bin\Debug\net5.0\TestC-Sharp.runtimeconfig.json
+D:\Semestre 7\Proyecto Integrador\Experiment-Complex-PI\TestC#\TestC-Sharp\bin\Debug\net5.0\TestC-Sharp.runtimeconfig.dev.json
+D:\Semestre 7\Proyecto Integrador\Experiment-Complex-PI\TestC#\TestC-Sharp\bin\Debug\net5.0\TestC-Sharp.dll
+D:\Semestre 7\Proyecto Integrador\Experiment-Complex-PI\TestC#\TestC-Sharp\bin\Debug\net5.0\ref\TestC-Sharp.dll
+D:\Semestre 7\Proyecto Integrador\Experiment-Complex-PI\TestC#\TestC-Sharp\bin\Debug\net5.0\TestC-Sharp.pdb
+D:\Semestre 7\Proyecto Integrador\Experiment-Complex-PI\TestC#\TestC-Sharp\obj\Debug\net5.0\TestC-Sharp.csproj.AssemblyReference.cache
+D:\Semestre 7\Proyecto Integrador\Experiment-Complex-PI\TestC#\TestC-Sharp\obj\Debug\net5.0\TestC-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semestre 7\Proyecto Integrador\Experiment-Complex-PI\TestC#\TestC-Sharp\obj\Debug\net5.0\TestC-Sharp.AssemblyInfoInputs.cache
+D:\Semestre 7\Proyecto Integrador\Experiment-Complex-PI\TestC#\TestC-Sharp\obj\Debug\net5.0\TestC-Sharp.AssemblyInfo.cs
+D:\Semestre 7\Proyecto Integrador\Experiment-Complex-PI\TestC#\TestC-Sharp\obj\Debug\net5.0\TestC-Sharp.csproj.CoreCompileInputs.cache
+D:\Semestre 7\Proyecto Integrador\Experiment-Complex-PI\TestC#\TestC-Sharp\obj\Debug\net5.0\TestC-Sharp.dll
+D:\Semestre 7\Proyecto Integrador\Experiment-Complex-PI\TestC#\TestC-Sharp\obj\Debug\net5.0\ref\TestC-Sharp.dll
+D:\Semestre 7\Proyecto Integrador\Experiment-Complex-PI\TestC#\TestC-Sharp\obj\Debug\net5.0\TestC-Sharp.pdb
+D:\Semestre 7\Proyecto Integrador\Experiment-Complex-PI\TestC#\TestC-Sharp\obj\Debug\net5.0\TestC-Sharp.genruntimeconfig.cache
+>>>>>>> 6053cdf3851484db242a15cbfe3de6c0cdd0f7ff

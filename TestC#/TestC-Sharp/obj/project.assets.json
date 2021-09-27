@@ -8,11 +8,16 @@
     "net5.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Giova\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\Juan Pablo\\.nuget\\packages\\": {}
+>>>>>>> 6053cdf3851484db242a15cbfe3de6c0cdd0f7ff
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Giova\\OneDrive\\Escritorio\\Experiment-Complex-PI\\TestC#\\TestC-Sharp\\TestC-Sharp.csproj",
       "projectName": "TestC-Sharp",
       "projectPath": "C:\\Users\\Giova\\OneDrive\\Escritorio\\Experiment-Complex-PI\\TestC#\\TestC-Sharp\\TestC-Sharp.csproj",
@@ -21,6 +26,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Giova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "D:\\Semestre 7\\Proyecto Integrador\\Experiment-Complex-PI\\TestC#\\TestC-Sharp\\TestC-Sharp.csproj",
+      "projectName": "TestC-Sharp",
+      "projectPath": "D:\\Semestre 7\\Proyecto Integrador\\Experiment-Complex-PI\\TestC#\\TestC-Sharp\\TestC-Sharp.csproj",
+      "packagesPath": "C:\\Users\\Juan Pablo\\.nuget\\packages\\",
+      "outputPath": "D:\\Semestre 7\\Proyecto Integrador\\Experiment-Complex-PI\\TestC#\\TestC-Sharp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Juan Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 6053cdf3851484db242a15cbfe3de6c0cdd0f7ff
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
