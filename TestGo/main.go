@@ -55,13 +55,14 @@ func BubbleSort(numbers []int) []int {
 	// Crea una nueva secuencia de archivos de escritura
 	w := csv.NewWriter(f)
    log.Println("Start:	")
-   startTime := time.Nanosecod()
-   
-  // temp := []int (BubbleSort(test))
+   start := time.Now()
+   fmt.Println("Iteration")
+   BubbleSort(test)
 	//data := [][]string{{arrayToString(temp,", "),""},{"",""}}
-   endTime := time.Nanosecod()
-   log.Println("End:	", "took", (double)((endTime-startTime)))
-   ps:= int((endTime.Sub(startTime)))/1000000
+   t := time.Now()
+   elapsed := t.Sub(start)
+   fmt.Println(elapsed)
+   ps:= elapsed
    ss:= string(ps)
     Csvexp:= [][]string{{ss,""},{"",""}}
 
@@ -150,7 +151,3 @@ func main() {
          fmt.Println(BubbleSort(test4))
    
 }
-func  repeat 
-
-   
-   
