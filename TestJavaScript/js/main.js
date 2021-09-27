@@ -81,7 +81,7 @@ exportTimes();
 
 
 function runTests(){
-    for(var i=0; i<2; i++){
+    for(var i=0; i<100; i++){
     var testTime1=experiment(test1);
     times[0].push(testTime1);
     var testTime2=experiment(test2);
@@ -131,7 +131,7 @@ function experiment(array){
     bubbleSort(arrayCopy);
     var end= performance.now();
 
-    var timeSpent=(end-begin)/1000;
+    var timeSpent=(end-begin);
     return timeSpent;
     /*
     console.time('loop'+test);
